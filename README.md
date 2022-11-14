@@ -2,7 +2,7 @@
 
 📘 Cursando Análise e Desenvolvimento de Sistemas
 🔠 Inglês Avançado
-👽 Procuro me desenvolver em back-end
+👽 Procuro me desenvolver em front-end
 👩‍💻 Pronomes Ele/Dele
 
 <div align="center">
