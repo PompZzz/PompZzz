@@ -1,6 +1,5 @@
 ## Hi there! Sou o Pompeo Blanco!👾
 
-📘 Cursando Análise e Desenvolvimento de Sistemas
 🔠 Inglês Avançado
 👽 Procuro me desenvolver em front-end
 👩‍💻 Pronomes Ele/Dele
