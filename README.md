@@ -2,7 +2,7 @@
 
 🔠 Inglês Avançado
 👽 Procuro me desenvolver em front-end
-👩‍💻 Pronomes Ele/Dele
+👩‍💻
 
 <div align="center">
   <a href="https://github.com/PompZzz">
