@@ -1,8 +1,8 @@
 ## Hi there! Sou o Pompeo Blanco!👾
 
-🔠 Inglês Avançado
-👽 Procuro me desenvolver em front-end
-👩‍💻
+🔠Hi There!
+👽 
+
 
 <div align="center">
   <a href="https://github.com/PompZzz">
